@@ -1,0 +1,3 @@
+*.o
+judge_client/judge_client
+judge/judged
